@@ -3,53 +3,60 @@ Temática Geral: Matrizes Energéticas - ser humano e ambiente convivendo em ben
 
 ESTRATÉGIA
 
-Qual o tema/título/assunto do projeto/site?
-Quais são os principais objetivos do site?
-Que tipo de site ele é? spa (single page application) | dinâmico | interativo? Coletor | disponibilizador  de Conteúdo/Informações? Publicações?
-Será utilizado algum framework web (Vue, ReactJS, Flutter, …)?
+1)	Qual o tema/título/assunto do projeto/site?
+Matrizes energéticas brasileiras: produção, demanda, custo e consumo.
+2)	Quais são os principais objetivos do site?
+3)	Mostrar dados e previsões sobre o estado das matrizes energéticas no Brasil.
+4)	Que tipo de site ele é? spa (single page application) | dinâmico | interativo? Coletor | disponibilizador  de Conteúdo/Informações? Publicações?
+Vai ser um site onde vamos buscar facilitar ao máximo a navegação, também pedir feedbacks e sugestões aos usuários e buscar atualizar sempre os dados e informações quando possível.
+5)	Será utilizado algum framework web (Vue, ReactJS, Flutter, …)?
+Não temos planejado a utilização de algum framework.
 
 INFORMAÇÕES GERAIS SOBRE O WEBSITE
-Descreva  a proposta/site. É sério? Jovem? Confiável? ...? Justifique.
-Quais são os pontos fortes e fracos do tema selecionado? Por quê?
-Qual a mensagem que melhor descreve o conteúdo/atuação do site?
-É necessário obter dados dos visitantes? O quê é preciso saber? Por quê?
-Serão apresentados mecanismos de interação com os usuários? Quais? Qual o objetivo?
+6)	Descreva  a proposta/site. É sério? Jovem? Confiável? ...? Justifique.
+Queremos trazer dados atualizados e de confiança. Vamos pesquisar em artigos e dados em websites .gov, .edu, .org e também em artigos que podemos encontrar no Google Scholar (tanto que a base para escolhermos este assunto para o website, foi de um artigo).
+7)	Quais são os pontos fortes e fracos do tema selecionado? Por quê?
+O ponto forte é que a disponibilidade de informações para pesquisarmos sobre o assunto é bem abrangente, e temos bastante conteúdo para fornecer. O ponto fraco é que alguns dados mudam constantemente, e vamos ter que sempre estar acompanhando-os para atualizar.
+8)	Qual a mensagem que melhor descreve o conteúdo/atuação do site?
+9)	É necessário obter dados dos visitantes? O quê é preciso saber? Por quê?
+Por enquanto pretendemos somente pegar um feedback ou uma sugestão sobre o website e o conteúdo, porém ao decorrer do projeto podemos pensar em outras hipóteses.
+10)	Serão apresentados mecanismos de interação com os usuários? Quais? Qual o objetivo?
+Por enquanto somente gostaríamos de disponibilizar um campo onde o usuário pudesse deixar um feedback ou alguma sugestão para o website ou o conteúdo.
 
 PÚBLICO-ALVO
-Qual o público alvo? Descrevam interesses, necessidades e o que mais souberem a respeito.
-O que o site irá oferecer ao seu público-alvo?
-Qual o conhecimento, restrições e forma de acesso, necessidade de acessibilidade que os visitantes do site tem (ou será necessário para utilizar o site) de internet/web? E o conhecimento técnico?
+11)	Qual o público alvo? Descrevam interesses, necessidades e o que mais souberem a respeito.
+Nosso público alvo são as pessoas que desejam saber como funciona o sistema das matrizes energéticas do Brasil. Na questão da faixa etária, o conteúdo vai ser mais sério, com dados e estatísticas, então será mais voltado para pessoas que estão com grau de escolaridade do ensino médio ou superior.
+12)	O que o site irá oferecer ao seu público-alvo?
+Informações sobre como é feita a produção de energia nas matrizes energéticas brasileiras mais utilizadas, a sua relação com a demanda para saber o quanto produzir, o seu custo, e o quanto é consumido pela população.
+13)	Qual o conhecimento, restrições e forma de acesso, necessidade de acessibilidade que os visitantes do site tem (ou será necessário para utilizar o site) de internet/web? E o conhecimento técnico?
+Será necessário um dispositivo com conexão à internet, conhecimento em português do Brasil.
 
 CONTEÚDO
-Quais são alguns outros sites da web, com temas similares e com o mesmo público alvo? Apresente pelo menos 3 sites com temas semelhantes, listando pontos positivos e negativos de cada um deles.
-Link 1: … 
-Pontos positivos (3 no mínimo)
-Pontos  negativos (3 no mínimo)
+14)	Quais são alguns outros sites da web, com temas similares e com o mesmo público alvo? Apresente pelo menos 3 sites com temas semelhantes, listando pontos positivos e negativos de cada um deles.
+Link 1: … https://origoenergia.com.br/blog/brasil-tem-vantagem-competitiva-em-setor-de-energia?utm_term=&utm_campaign=SCH:PF:DECIS%C3%83O&utm_source=adwords&utm_medium=ppc&hsa_acc=1029479784&hsa_cam=12315093976&hsa_grp=127538302037&hsa_ad=547345744312&hsa_src=g&hsa_tgt=dsa-408899640176&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwoduRBhA4EiwACL5RP5HH15jVZ6YFHXzXH6iQ9xstQYFCglO29ChNwjhamc8c0mWLE9n20BoCKoAQAvD_BwE
+Pontos positivos (3 no mínimo)	Pontos  negativos (3 no mínimo)
 
+Dados estatísticos relativamente atualizados.
 
+Apresentou as referências das pesquisas realizadas para o conteúdo do website.
 
+Fornece formas de contato com o usuário por redes sociais e pelo próprio website.
 
+Tópicos pouco aprofundados.
 
+Site muito curto (meio pobre de informações também).
 
+Design muito simples e barra de navegação pouco prática.
 Link 2: … 
-Pontos positivos (3 no mínimo)
-Pontos  negativos (3 no mínimo)
+Pontos positivos (3 no mínimo)	Pontos  negativos (3 no mínimo)
 
-
-
-
-
+	
 
 Link 3: … 
-Pontos positivos (3 no mínimo)
-Pontos  negativos (3 no mínimo)
+Pontos positivos (3 no mínimo)	Pontos  negativos (3 no mínimo)
 
+	
 
-
-
-
-
-
-Principais fontes de dados (bases de dados), de informação e de pesquisa. Liste pelo menos 5 fontes, apresentando um resumo e uma justificativa do porque a fonte é importante para o tema proposto;
-Apresentar um cronograma de execução do projeto com etapas quinzenais;
-Entrar em contato com os professores orientadores (Física, Química, Matemática e Biologia) apresentar a proposta e coletar sugestões para melhorias. Apresentar um histórico dos contatos e melhorias definidas e aceitas pelo grupo. Ao final do briefing, solicitar um OK dos professores orientadores concordando com a proposta apresentada pelo grupo e com o cronograma de execução.
+15)	Principais fontes de dados (bases de dados), de informação e de pesquisa. Liste pelo menos 5 fontes, apresentando um resumo e uma justificativa do porque a fonte é importante para o tema proposto;
+16)	Apresentar um cronograma de execução do projeto com etapas quinzenais;
+17)	Entrar em contato com os professores orientadores (Física, Química, Matemática e Biologia) apresentar a proposta e coletar sugestões para melhorias. Apresentar um histórico dos contatos e melhorias definidas e aceitas pelo grupo. Ao final do briefing, solicitar um OK dos professores orientadores concordando com a proposta apresentada pelo grupo e com o cronograma de execução.
